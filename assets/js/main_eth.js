@@ -2,7 +2,7 @@ var modal
 var modalContent
 var lastNumEggs=-1
 var lastNumMiners=-1
-var lastSecondsUntilFull=100
+var lastSecondsUntilFull=150
 lastHatchTime=0
 var eggstohatch1=1440288
 var lastUpdate=new Date().getTime()
